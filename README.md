@@ -1,4 +1,4 @@
-# Flask Monitoring with Prometheus and Grafana
+# Flask Monitoring with Kubernetes (Minikube), Prometheus and Grafana
 
 This project deploys a Flask application on Minikube and monitors it using Prometheus and Grafana via Helm.
 
