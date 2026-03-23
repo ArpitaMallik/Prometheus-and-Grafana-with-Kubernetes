@@ -2,6 +2,8 @@
 
 This project deploys a Flask application on Minikube and monitors it using Prometheus and Grafana via Helm.
 
+![Grafana Visualization](Visualization-in-Grafana.png)
+
 ## Prerequisites
 
 * Docker
